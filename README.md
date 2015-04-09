@@ -4,7 +4,7 @@
 
 * NetworkStats - methods and properties to monitor data usage. e.g. type of network which is providing internet to us now (data or wifi)
   * available via [mozNetworkStatsManager](https://developer.mozilla.org/en-US/docs/Web/API/window/navigator/mozNetworkStats)
-* NFC
+* NFC - not strictly network based but can transmit data!
 * TCPSocket. [TCP](http://en.wikipedia.org/wiki/Transmission_Control_Protocol) transmissions are *reliable, ordered and error-checked*.
   * Accessible via `mozTCPSocket`
   * [API docs](https://developer.mozilla.org/en-US/docs/Web/API/TCPSocket)
@@ -20,10 +20,13 @@
 * WiFi information via the `navigator.mozWifiManager` object
   * [API docs](https://developer.mozilla.org/en-US/docs/Web/API/WiFi_Information_API)
 * Wifi Direct via the `WifiP2pManager` object
+  * [WiFi Direct](https://en.wikipedia.org/wiki/Wi-Fi_Direct) wikipedia article, good overview.
   * Bug [811635 - B2G Wifi: Support Wifi Direct](https://bugzilla.mozilla.org/show_bug.cgi?id=811635)
   * [WebIDL](https://dxr.mozilla.org/mozilla-central/source/dom/wifi/WifiP2pManager.jsm)
   * (incomplete) [API docs](https://developer.mozilla.org/en-US/docs/Web/API/MozWifiP2pManager)
+  * [Blog post](https://hacks.mozilla.org/2015/01/the-p2p-web-wi-fi-direct-in-firefox-os/)
   * Examples
+    * [firedrop](https://github.com/justindarc/firedrop) - share files with devices nearby
 	* [Who is around?](https://github.com/gmarty/who-is-around) - Discover devices and services around you in a fun way
 	* [Wifi Columns](https://github.com/gmarty/wifi-columns) - emulator running Columns game, p2p players without internet connection
 
