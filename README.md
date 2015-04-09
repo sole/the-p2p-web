@@ -17,6 +17,7 @@
 * WebSockets: send messages to a server and receive event-driven responses without having to poll the server for a reply.
   * [API docs](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)
   * [Documentation](https://developer.mozilla.org/en-US/docs/WebSockets)
+  * An [early WebSocket server implementation](https://gist.github.com/azasypkin/e4e99bda58ca2b4436c2) for Firefox OS
 * WiFi information via the `navigator.mozWifiManager` object
   * [API docs](https://developer.mozilla.org/en-US/docs/Web/API/WiFi_Information_API)
 * Wifi Direct via the `WifiP2pManager` object
