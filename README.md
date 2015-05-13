@@ -17,7 +17,7 @@
 * WebSockets: send messages to a server and receive event-driven responses without having to poll the server for a reply.
   * [API docs](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)
   * [Documentation](https://developer.mozilla.org/en-US/docs/WebSockets)
-  * An [early WebSocket server implementation](https://gist.github.com/azasypkin/e4e99bda58ca2b4436c2) for Firefox OS
+  * [fxos-websocket-server](https://github.com/p2p-web/fxos-websocket-server) an early implementation of a Web Sockets server for Firefox OS
 * WiFi information via the `navigator.mozWifiManager` object
   * [API docs](https://developer.mozilla.org/en-US/docs/Web/API/WiFi_Information_API)
 * Wifi Direct via the `WifiP2pManager` object
@@ -37,6 +37,8 @@
 * [p2p-helper.js](https://github.com/justindarc/p2p-helper.js) - utility for simplifying peer-to-peer connections in Firefox OS
 * [fxos-web-server](https://github.com/justindarc/fxos-web-server)
   * [blog post](https://hacks.mozilla.org/2015/02/embedding-an-http-web-server-in-firefox-os/)
+* [The p2p Web](https://github.com/p2p-web) - Unicorns
+  * [Proposal](https://github.com/p2p-web/proposal)
 
 ## Usual examples
 
