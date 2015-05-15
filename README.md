@@ -30,6 +30,8 @@
     * [firedrop](https://github.com/justindarc/firedrop) - share files with devices nearby
 	* [Who is around?](https://github.com/gmarty/who-is-around) - Discover devices and services around you in a fun way
 	* [Wifi Columns](https://github.com/gmarty/wifi-columns) - emulator running Columns game, p2p players without internet connection
+* Mesh network - allows devices to join / set up a network without user intervention
+	* Bug [1066709](https://bugzilla.mozilla.org/show_bug.cgi?id=1066709) "Support public adhoc/mesh on FxOS (Flame)" - it's work in progress
 
 ## Libraries
 
