@@ -51,3 +51,4 @@
 ## Sample / demo apps
 
 * [networkInfo](https://github.com/sole/networkInfo) - show currently connected wi-fi network plus IP address and network security scheme
+* [the disconnected ensemble](https://github.com/sole/disconnected-ensemble-src) - shareable offline music toys ([slides](https://github.com/sole/disconnected-ensemble-slides))
