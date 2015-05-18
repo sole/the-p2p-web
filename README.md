@@ -39,6 +39,8 @@
 * [p2p-helper.js](https://github.com/justindarc/p2p-helper.js) - utility for simplifying peer-to-peer connections in Firefox OS
 * [fxos-web-server](https://github.com/justindarc/fxos-web-server)
   * [blog post](https://hacks.mozilla.org/2015/02/embedding-an-http-web-server-in-firefox-os/)
+  * [Firedrop](https://github.com/justindarc/firedrop) - a portable flash drive app for sharing files with nearby users, without Internet connection, using WiFi direct.
+  * [sharing](https://github.com/fxos/sharing) -- app for discovering and sharing apps
 * [The p2p Web](https://github.com/p2p-web) - Unicorns
   * [Proposal](https://github.com/p2p-web/proposal)
 
